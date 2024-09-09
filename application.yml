@@ -6,7 +6,7 @@ spring:
     driver-class-name: org.postgresql.Driver  # Ensure the driver class is specified
     url: jdbc:postgresql://localhost:5432/openfeign_db
     username: postgres
-    password: 2003
+    password: 20033
 
   # config data jpa
   jpa:
